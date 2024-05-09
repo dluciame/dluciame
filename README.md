@@ -4,7 +4,7 @@ I am a passionate DevOps Engeneer with a strong focus on containerization and or
 
 I hold several industry-recognized certifications that attest to my skills and dedication to staying current in the field. These include the **Certified Kubernetes Administrator (CKA)**, which validates my ability to design, build, configure, and manage Kubernetes clusters. I am also certified in **Terraform**, demonstrating my expertise in infrastructure as code (IaC) concepts and best practices. Additionally, I possess the **AZ-104 Microsoft Azure Administrator** certification, confirming my proficiency in managing cloud services that span storage, security, networking, and compute capabilities within Microsoft Azure.
 
-[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=dluciame)](https://github.com/dluciame/github-readme-stats)
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=dluciame&count_private=true)](https://github.com/dluciame/github-readme-stats)
 
 ## 🚀 About Me
 
