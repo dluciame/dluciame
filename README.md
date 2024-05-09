@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi, I'm Diego! 👋
 
-<!--
-**dluciame/dluciame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate DevOps Engeneer with a strong focus on containerization and orchestration, primarily using **Kubernetes**. I have extensive experience in implementing Continuous Integration and Continuous Deployment (CI/CD) pipelines, with a particular emphasis on **GitHub Actions**. 
 
-Here are some ideas to get you started:
+I hold several industry-recognized certifications that attest to my skills and dedication to staying current in the field. These include the **Certified Kubernetes Administrator (CKA)**, which validates my ability to design, build, configure, and manage Kubernetes clusters. I am also certified in **Terraform**, demonstrating my expertise in infrastructure as code (IaC) concepts and best practices. Additionally, I possess the **AZ-104 Microsoft Azure Administrator** certification, confirming my proficiency in managing cloud services that span storage, security, networking, and compute capabilities within Microsoft Azure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing the Certified Kubernetes Security Specialist certification.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
+
+ ## 🏆 Achievements
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+
+
+## 📬 Get in Touch
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
