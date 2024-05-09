@@ -9,7 +9,7 @@ I hold several industry-recognized certifications that attest to my skills and d
 - 🔭 I'm currently pursuing the Certified Kubernetes Security Specialist certification.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,linux,Terraform-Dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,linux,terraform)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
