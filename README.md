@@ -23,16 +23,15 @@ I hold several industry-recognized certifications that attest to my skills and d
 <img src="https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" alt=""
   onclick="window.open('https://www.credly.com/badges/875b015e-ae5e-4d84-8fd0-70baa119b0a7/public_url', '_blank');"
   style="cursor: pointer; width: 150px; height: 150px;">
-
 <img
   src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main"
   alt=""
   onclick="window.open('https://learn.microsoft.com/api/credentials/share/en-us/DiegoLuciaMenendez-1275/80034600145834D3?sharingId=C2D0E926695783CB', '_blank');"
   style="cursor: pointer; width: 150px; height: 150px;">
-
 <img src="https://images.credly.com/size/340x340/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt=""
   onclick="window.open('https://www.credly.com/badges/7809e7aa-d669-4338-9bd4-90a486445f0d/public_url', '_blank');"
   style="cursor: pointer; width: 150px; height: 150px;">
+  
 ## 📬 Get in Touch
 
 [![Linkedin](www.linkedin.com/in/diegolucia)
