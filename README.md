@@ -46,5 +46,5 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 
 <a href="https://app.daily.dev/dluciame"><img src="https://api.daily.dev/devcards/v2/iwg4HxoQUjyWWRi9bfSNX.png?type=default&r=fbo" width="356" alt="Diego Lucia's Dev Card"/></a>
 
-![dluciame GitHub stats](https://github-readme-stats.vercel.app/api?username=dluciame&count_private=true)
+![dluciame GitHub stats](https://github-readme-stats.vercel.app/api?username=dluciame&count_private=true&include_orgs=true)
 
