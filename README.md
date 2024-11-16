@@ -40,7 +40,7 @@ In my free time, I enjoy climbing and hiking. There’s nothing like reaching ne
   
 ## 📬 Get in Touch
 
-[![Linkedin](www.linkedin.com/in/diegolucia)
+[Linkedin](www.linkedin.com/in/diegolucia)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
