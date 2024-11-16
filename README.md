@@ -15,7 +15,8 @@ I hold several industry-recognized certifications that attest to my skills and d
 
  ## 🏆 Achievements
 
-[![cka](https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)]
+![cka](https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)
+![cka](https://images.credly.com/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)
 
 ## 📬 Get in Touch
 
