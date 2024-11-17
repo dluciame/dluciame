@@ -5,12 +5,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=DevOps+Engineer;Kubernetes+lover;CI/CD+specialist;Azure+enthusiast;Terraform+expert;All+As+Code+advocate;Problem+solver;Team+player;Continuous+learner;"></a>
 </p>
 
-I am a passionate DevOps Engeneer with a strong focus on containerization and orchestration, primarily using **Kubernetes**. I have extensive experience in implementing Continuous Integration and Continuous Deployment (CI/CD) pipelines, with a particular emphasis on **GitHub Actions**. 
+I am a passionate DevOps Engeneer with a strong focus on containerization and orchestration, primarily using **Kubernetes**. I have extensive experience in implementing Continuous Integration and Continuous Deployment (CI/CD) pipelines, with a particular emphasis on **GitHub Actions**.
 
 I hold several industry-recognized certifications that attest to my skills and dedication to staying current in the field. These include the **Certified Kubernetes Administrator (CKA)**, which validates my ability to design, build, configure, and manage Kubernetes clusters. I am also certified in **Terraform**, demonstrating my expertise in infrastructure as code (IaC) concepts and best practices. Additionally, I possess the **AZ-104 Microsoft Azure Administrator** certification, confirming my proficiency in managing cloud services that span storage, security, networking, and compute capabilities within Microsoft Azure.
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+ <img src = "https://github.com/dluciame/dluciame/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 ## 🚀 About Me
@@ -24,11 +24,12 @@ When I’m not working, you’ll find me tinkering with new tech, contributing t
 In my free time, I enjoy climbing and hiking. There’s nothing like reaching new heights and exploring the great outdoors to keep life balanced and exciting. 🧗‍♂️🌲
 
 ## Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=azure,kubernetes,linux,terraform,githubactions,github,grafana,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
- ## 🏆 Achievements
+## 🏆 Achievements
 
 <img
   src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
@@ -54,4 +55,3 @@ In my free time, I enjoy climbing and hiking. There’s nothing like reaching ne
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <a href="https://app.daily.dev/dluciame"><img src="https://api.daily.dev/devcards/v2/iwg4HxoQUjyWWRi9bfSNX.png?type=default&r=fbo" width="356" alt="Diego Lucia's Dev Card"/></a>
-
