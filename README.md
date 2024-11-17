@@ -9,6 +9,10 @@ I am a passionate DevOps Engeneer with a strong focus on containerization and or
 
 I hold several industry-recognized certifications that attest to my skills and dedication to staying current in the field. These include the **Certified Kubernetes Administrator (CKA)**, which validates my ability to design, build, configure, and manage Kubernetes clusters. I am also certified in **Terraform**, demonstrating my expertise in infrastructure as code (IaC) concepts and best practices. Additionally, I possess the **AZ-104 Microsoft Azure Administrator** certification, confirming my proficiency in managing cloud services that span storage, security, networking, and compute capabilities within Microsoft Azure.
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 ## 🚀 About Me
 
 I thrive in fast-paced environments that push me to learn and grow. Staying on top of the latest tech trends is my jam, and I’m always on the lookout for new tools and methods to make DevOps even better. 🛠️
